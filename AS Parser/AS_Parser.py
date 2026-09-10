@@ -171,7 +171,6 @@ ASN_LIST = {
     "UUNET 3": "AS703",
     "UUNET 4": "AS704",
     "UUNET 5": "AS705",
-    "Valve": "AS32590",
     "Vorboss Limited": "AS25160",
     "Vultr (Constant)": "AS20473",
     "Zenlayer": "AS21859",
